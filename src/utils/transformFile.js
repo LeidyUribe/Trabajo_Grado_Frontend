@@ -1,0 +1,1 @@
+https://medium.com/@leopoldoramonmontesinos/react-js-transformar-datos-de-excel-a-json-94a101710f09
